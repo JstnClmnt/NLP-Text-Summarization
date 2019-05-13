@@ -1,7 +1,9 @@
-https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-
-https://hackernoon.com/text-summarization-using-keras-models-366b002408d9
-https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/
-https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/
-https://github.com/chen0040/keras-text-summarization
+
+1. Bidirectional LSTM for Text Summarization: https://github.com/DeepsMoseli/Bidirectiona-LSTM-for-text-summarization-
+2. Text Summarization Using Keras Models: https://hackernoon.com/text-summarization-using-keras-models-366b002408d9
+3. Encoder-Decoder Models for Text Summarization in Keras: https://machinelearningmastery.com/encoder-decoder-models-text-summarization-keras/
+4. Attention in LSTM RNNs: https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/
+5. Keras Text Summarization: https://github.com/chen0040/keras-text-summarization
+
 
 https://paperswithcode.com/task/document-summarization
