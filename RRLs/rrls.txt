@@ -8,5 +8,6 @@
     -https://github.com/thushv89/attention_keras
 8. How to implement Seq2Seq LSTM Model in Keras #ShortcutNLP: https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639
 9. Bidirectional LSTM: Abstract Text Summarization: https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM
+10. Awesome text Summarization: https://github.com/mathsyouth/awesome-text-summarization
 
 https://paperswithcode.com/task/document-summarization
