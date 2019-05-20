@@ -9,5 +9,9 @@
 8. How to implement Seq2Seq LSTM Model in Keras #ShortcutNLP: https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639
 9. Bidirectional LSTM: Abstract Text Summarization: https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM
 10. Awesome text Summarization: https://github.com/mathsyouth/awesome-text-summarization
+11. NLP Progress Text Summarization: http://nlpprogress.com/english/summarization.html
+12. Sequence to sequence example in Keras (character-level): https://keras.io/examples/lstm_seq2seq/
+13. A ten-minute introduction to sequence-to-sequence learning in Keras: https://blog.keras.io/a-ten-minute-introduction-to-sequence-to-sequence-learning-in-keras.html
+
 
 https://paperswithcode.com/task/document-summarization
