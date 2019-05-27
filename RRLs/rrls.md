@@ -5,8 +5,7 @@
 * [Attention in LSTM RNNs](https://machinelearningmastery.com/attention-long-short-term-memory-recurrent-neural-networks/)
 * [Keras Text Summarization](https://github.com/chen0040/keras-text-summarization)
 * [Abstractive Summarization Using Keras](https://github.com/XiaohuiGuoEartha/NLP_Project_Abstractive_Summarization)
-* [Attention in Deep Networks with Keras](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39
--https://github.com/thushv89/attention_keras)
+* [Attention in Deep Networks with Keras](https://towardsdatascience.com/light-on-math-ml-attention-with-keras-dc8dbc1fad39-https://github.com/thushv89/attention_keras)
 * [How to implement Seq2Seq LSTM Model in Keras #ShortcutNLP](https://towardsdatascience.com/how-to-implement-seq2seq-lstm-model-in-keras-shortcutnlp-6f355f3e5639)
 * [Bidirectional LSTM: Abstract Text Summarization](https://github.com/samurainote/Text_Summarization_using_Bidirectional_LSTM)
 * [Awesome text Summarization](https://github.com/mathsyouth/awesome-text-summarization)
